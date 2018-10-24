@@ -8,7 +8,7 @@ This is a leave segmentation based on BP
 1. Train the work:  
     - Run Zoo_tezhen_train get *TEZHEN_sum* as nntool input  
     - Run Zoo_train get *gamma* as nntool target  
-    Start Nntool：
+    - Start Nntool：
           Import TEZHENG(input)
           Import gamma()target)
           Set new network:
