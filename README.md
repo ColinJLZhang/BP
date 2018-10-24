@@ -10,7 +10,7 @@ This is a leave segmentation based on BP
     - Run Zoo_train get *gamma* as nntool target  
     - Start Nntool：
           Import TEZHENG(input)
-          Import gamma()target)
+          Import gamma(target)
           Set new network:
             Training function:TRAINSCG
             Number of layers:2
