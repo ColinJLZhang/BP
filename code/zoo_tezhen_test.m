@@ -32,3 +32,4 @@ tezhen(:,:,2) = img_Lab(:,:,3);
 tezhen(:,:,3) = ftfb;
 
 TEZHEN_test = reshape(tezhen,rimg*cimg,3);
+TEZHEN_test = TEZHEN_test';

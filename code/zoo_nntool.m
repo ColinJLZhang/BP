@@ -2,8 +2,8 @@
 % simulate后的显示处理
 % 先进行zoo_tezhen_test
 
-TEZHEN_sumT = TEZHEN_sum';      %input
-gammaT = gamma';                %target
+%TEZHEN_sumT = TEZHEN_sum';      %input
+%gammaT = gamma';                %target
 TEZHEN_testT = TEZHEN_test';    %simulate input
 %
 [rimg,cimg,~] = size(img);

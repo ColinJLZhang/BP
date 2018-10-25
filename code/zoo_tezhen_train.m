@@ -38,3 +38,4 @@ TEZHEN = reshape(tezhen,rimg*cimg,3);
 TEZHEN_sum = [TEZHEN_sum;TEZHEN];
 
 end
+TEZHEN_sum = TEZHEN_sum';

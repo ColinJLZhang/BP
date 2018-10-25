@@ -52,3 +52,4 @@ gamma(fg_train==0,2)=1;
 % [u,sigma,p,px]=GMM_train(data,n_center,thresh,gamma);     %¼Ógamma
 % 
 % disp('Train Completed !');
+gamma = gamma';   
