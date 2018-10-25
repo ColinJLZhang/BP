@@ -20,8 +20,11 @@ This is a leave segmentation based on BP
     - Run zoo_tezhen_test get TEZHEN_test as simulate input.
     - Simulate TEZHEN_test
     - Show image:run zoo_nntool.m to show the image
+    
 ## Network performance
-![image](https://github.com/ColinJLZhang/BP/blob/write-README/result/training%20regression.png)
-![image](https://github.com/ColinJLZhang/BP/blob/write-README/result/training%20state.png)
+![image](/result/training%20regression.png)  
+![image](/result/training%20state.png)
+
 ## Result
-![iuput](https://github.com/ColinJLZhang/BP/blob/write-README/result/input_2017-01-20%20101203.jpg)![Output](https://github.com/ColinJLZhang/BP/blob/write-README/result/result_2017-01-20%20101203.jpg)
+![image](/result/input_2017-01-20%20101203.jpg)
+![image](/result_2017-01-20%20101203.jpg)
