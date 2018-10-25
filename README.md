@@ -23,7 +23,7 @@ This is a leave segmentation based on BP
     
 ## Network performance
 ![image](/result/training%20regression.png) 
-![image](/result/training%20state.png){: width:"279px" height:"308px"} 
+![image](/result/training%20state.png){: width="100px" height="100px"}
 
 ## Result
 ![image](/result/input_2017-01-20%20101203.jpg)
