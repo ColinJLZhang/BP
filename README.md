@@ -22,9 +22,10 @@ This is a leave segmentation based on BP
     - Show image:run zoo_nntool.m to show the image
     
 ## Network performance
-![image](/result/training%20regression.png) 
-![image](/result/training%20state.png){: width="100px" height="100px"}
+<img src="result/training%20regression.png">
+<img src="result/training%20state.png" width=80%>
+
 
 ## Result
-![image](/result/input_2017-01-20%20101203.jpg)
-![image](result/result_2017-01-20%20101203.jpg)
+<img src="result/input_2017-01-20%20101203.jpg">
+<img src="result/result_2017-01-20%20101203.jpg">
