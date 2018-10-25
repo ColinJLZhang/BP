@@ -9,21 +9,21 @@ This is a leave segmentation based on BP
     - Run Zoo_tezhen_train get *TEZHEN_sum* as nntool input  
     - Run Zoo_train get *gamma* as nntool target  
     - Start Nntool：
-          Import TEZHENG(input)
-          Import gamma(target)
+          Import *TEZHENG*(input)
+          Import *gamma*(target)
           Set new network:
             Training function:TRAINSCG
-            Number of layers:2
-            Number of neurous:10
-          *Train the network*
+            Number of layers:2  
+            Number of neurous:10    
+           *Train the network*
  2. Using network to segment the image
     - Run zoo_tezhen_test get TEZHEN_test as simulate input.
-    - Simulate TEZHEN_test
+    - Simulate *TEZHEN_test* and export the result of the simulate
     - Show image:run zoo_nntool.m to show the image
     
 ## Network performance
-![image](/result/training%20regression.png)  
-![image](/result/training%20state.png)
+![image](/result/training%20regression.png) 
+![image](/result/training%20state.png){: width:"279px" height:"308px"} 
 
 ## Result
 ![image](/result/input_2017-01-20%20101203.jpg)
