@@ -27,5 +27,4 @@ This is a leave segmentation based on BP
 
 
 ## Result
-<img src="result/input_2017-01-20%20101203.jpg">
-<img src="result/result_2017-01-20%20101203.jpg">
+<img src="result/input_2017-01-20%20101203.jpg"><img src="result/result_2017-01-20%20101203.jpg">
